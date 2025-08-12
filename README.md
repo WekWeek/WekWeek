@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me +3530894144621
 - 😄 Pronouns: idc
-- ⚡ Fun fact: I dont know how to code
+- ⚡ Fun fact: I do know how to code python
 
 <!---
 WekWeek/WekWeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
